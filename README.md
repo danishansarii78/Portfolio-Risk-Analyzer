@@ -8,17 +8,7 @@ An interactive web dashboard built to perform sophisticated risk analysis on sto
 This tool empowers investors and analysts to move beyond simple return tracking and incorporate a suite of advanced techniques for a deeper understanding of portfolio risk and potential.
 
 
-📋 Table of Contents
-About The Project
-Key Features
-Tech Stack
-Getting Started
-Prerequisites
-Installation
-Usage
-File Structure
-Contributing
-License
+
 📖 About The Project
 This application provides a user-friendly interface to perform complex financial analysis that is typically reserved for institutional investors. By simply providing a list of stock tickers and their corresponding weights, users can generate a comprehensive risk profile for their portfolio.
 
